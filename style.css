@@ -1,0 +1,28 @@
+.Menu {
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+
+
+
+}
+
+.Links {
+    float: right;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+.Links:hover {
+    background-color: aqua;
+
+}
+
+header {
+    font-size: 50px;
+    color: blue
+}
